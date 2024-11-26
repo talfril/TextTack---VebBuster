@@ -1,20 +1,16 @@
 :root {
   --content-bg-color: #ffffff;
-  --main-theme-color: #000;
-  --main-font: "Inter", sans-serif;
-  --accent-font: "PressStart2P-Regular", sans-serif;
+  --main-accent-color: #07086C;
+  --accent-text-color: #ffffff;
+  --font-color: #000000;
+  --additional-font-color: #969AF7;
+  --main-font: "FuturaBookC", sans-serif;
+  --accent-font: "FuturaFuturisC", sans-serif;
+  --text-font: "";
   --main-font-weight: 400;
   --title-font-weight: 700;
-  --bg-image: repeating-linear-gradient(
-      to right,
-      #d3d3d3 0 2px,
-      transparent 2px 4px
-    ),
-    repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px),
-    linear-gradient(to bottom, #e7e7e7, #1a1a1a);
+  --form-header-bg: linear-gradient(#6A32B4, #552693);
+  --accent-bg: linear-gradient(to right, rgba(150, 154, 247, 0.3), rgba(150, 154, 247, 0));
   --button-text-color: #ffffff;
-  --heart-contuor-color: #000;
-  --sparks-color: transparent;
-  --main-body-heart-color: var(--content-bg-color);
-  --core-heart-color: var(--content-bg-color);
+  --button-bg-color: #FFA500;
 }
