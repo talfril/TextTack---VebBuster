@@ -1,16 +1,37 @@
 :root {
-  --content-bg-color: #ffffff;
-  --main-accent-color: #07086C;
+  --content-bg-color: #f2f2f4;
+  --main-accent-color: #050783;
+  --header-bg-color: #07086c;
+  --navMenu-bg: rgb(7, 8, 108, 0.5);
   --accent-text-color: #ffffff;
+  --accent-text-color-description: #e3e3e3;
   --font-color: #000000;
-  --additional-font-color: #969AF7;
+  --additional-font-color: #969af7;
   --main-font: "FuturaBookC", sans-serif;
   --accent-font: "FuturaFuturisC", sans-serif;
+  --subTitleFont: "FuturaDemiC", sans-serif;
+  --lightFont: "FuturaLightC", sans-serif;
   --text-font: "";
   --main-font-weight: 400;
   --title-font-weight: 700;
-  --form-header-bg: linear-gradient(#6A32B4, #552693);
-  --accent-bg: linear-gradient(to right, rgba(150, 154, 247, 0.3), rgba(150, 154, 247, 0));
+  --form-header-bg: linear-gradient(#6a32b4, #552693);
+  --accent-bg: linear-gradient(
+    to right,
+    rgba(150, 154, 247, 0.3),
+    rgba(150, 154, 247, 0)
+  );
   --button-text-color: #ffffff;
-  --button-bg-color: #FFA500;
+  --button-bg-color: #ffa500;
+  --form-input-bg: #f5f3ff;
+  --footer-bg: #333333;
+  --card-bg: #ffffff;
+  --form-label-color: #626366;
+  --note-color: #c0c0c0;
+  --form-input-bg: #ddd;
+  --card-decoration-color: #5172c4;
+  --decorative-first-color: #040a57;
+  --decorative-secont-color: #3a23e6;
+  --light-decorative-color-first: #bdc0ff;
+  --light-decorative-color-second: #757aef;
+  --light-decorative-color-third: #686eec;
 }
