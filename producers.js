@@ -1,12 +1,12 @@
 const producersData = [
-  { image: "../assets/images/producers/producer1.png", alt: "eaier" },
-  { image: "../assets/images/producers/producer2.png", alt: "foryard" },
-  { image: "../assets/images/producers/producer3.png", alt: "fujicon" },
+  { image: "./assets/images/producers/producer1.png", alt: "eaier" },
+  { image: "./assets/images/producers/producer2.png", alt: "foryard" },
+  { image: "./assets/images/producers/producer3.png", alt: "fujicon" },
   {
-    image: "../assets/images/producers/producer4.png",
+    image: "./assets/images/producers/producer4.png",
     alt: "js artificial grass",
   },
-  { image: "../assets/images/producers/producer5.png", alt: "marquis" },
+  { image: "./assets/images/producers/producer5.png", alt: "marquis" },
 ];
 
 const producersContainer = document.getElementById("producers-container");
